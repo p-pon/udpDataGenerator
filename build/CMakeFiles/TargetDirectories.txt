@@ -1,0 +1,3 @@
+C:/Qt/prj/UdpDataGenerator/build/CMakeFiles/UdpGeneratorGUI.dir
+C:/Qt/prj/UdpDataGenerator/build/CMakeFiles/ALL_BUILD.dir
+C:/Qt/prj/UdpDataGenerator/build/CMakeFiles/ZERO_CHECK.dir

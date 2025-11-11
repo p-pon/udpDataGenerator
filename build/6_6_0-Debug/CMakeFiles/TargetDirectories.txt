@@ -1,0 +1,5 @@
+C:/Qt/prj/UdpDataGenerator/build/6_6_0-Debug/CMakeFiles/UdpGeneratorGUI.dir
+C:/Qt/prj/UdpDataGenerator/build/6_6_0-Debug/CMakeFiles/edit_cache.dir
+C:/Qt/prj/UdpDataGenerator/build/6_6_0-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/prj/UdpDataGenerator/build/6_6_0-Debug/CMakeFiles/UdpGeneratorGUI_autogen_timestamp_deps.dir
+C:/Qt/prj/UdpDataGenerator/build/6_6_0-Debug/CMakeFiles/UdpGeneratorGUI_autogen.dir

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\UdpDataGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\UdpDataGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\datatypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\include_Debug\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\include_Release\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\include_MinSizeRel\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\include_RelWithDebInfo\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Qt\prj\UdpDataGenerator\build\CMakeFiles\e53764feff2fb200ea4f8cbeeb812b97\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Qt\prj\UdpDataGenerator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Qt\prj\UdpDataGenerator\MainWindow.ui" />
+    <None Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\autouic_Release.stamp" />
+    <None Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Qt\prj\UdpDataGenerator\build\UdpGeneratorGUI_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A02250A0-4B78-30A0-8A1F-53F2DDB6509A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{75EAD1FA-2F16-36DA-ACF8-5A796CB58740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C0346731-9386-3326-9F07-D7E97AB3B2E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
